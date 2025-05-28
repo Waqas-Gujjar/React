@@ -1,3 +1,4 @@
+import Name from "./Name"
 
 
 
@@ -5,7 +6,7 @@ function App() {
   
 
   return (
-    <h1>Chai hor react | Waqas Younas </h1>
+    <Name />
   )
 }
 
